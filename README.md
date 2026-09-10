@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://cyfrowystrazak.pl"><b>Oficjalna strona projektu</b></a> • 
   <a href="https://cyfrowystrazak.pl/funkcje.php">Funkcje</a> • 
-  <a href="#pobieranie">Pobierz</a>
+  <a href="https://cyfrowystrazak.pl/pobierz.php">Pobierz</a>
 </p>
 
 ---
